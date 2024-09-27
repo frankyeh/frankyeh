@@ -6,4 +6,3 @@
 - C++ programmer
 - [DSI Studio](http://dsi-studio.labsolver.org) buddy 
 
-[![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankyeh)](https://github.com/anuraghazra/github-readme-stats)
